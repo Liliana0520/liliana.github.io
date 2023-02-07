@@ -1,3 +1,4 @@
+<read me>
 /* 字体引入 */
 @font-face{
   font-family: 'HarmonyOS_Sans_SC_Bold';
